@@ -1,0 +1,5 @@
+﻿  main.cpp
+f:\infiniscene\directxpractice\withwindowsapps\emptyproj\emptyproj\main.cpp(37): warning C4302: 'type cast': truncation from 'LPSTR' to 'WORD'
+f:\infiniscene\directxpractice\withwindowsapps\emptyproj\emptyproj\main.cpp(42): warning C4302: 'type cast': truncation from 'LPSTR' to 'WORD'
+  emptyProj.vcxproj -> F:\Infiniscene\DirectXPractice\Withwindowsapps\emptyProj\Debug\emptyProj.exe
+  emptyProj.vcxproj -> F:\Infiniscene\DirectXPractice\Withwindowsapps\emptyProj\Debug\emptyProj.pdb (Partial PDB)
